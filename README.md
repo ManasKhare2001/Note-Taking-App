@@ -13,7 +13,7 @@ Third Case : Here, We have entered the second data which is "Mukesh Ambani" and 
 
 ![Screenshot (456)](https://user-images.githubusercontent.com/79192605/119723230-d9933680-be8a-11eb-84e7-24d936f5c916.png)
 
-Fourth Case : Here, we have deleted "Mukesh Ambani" with the help of delete button, which is in the corner of the each notes. And a POP_UP notification is shown with "Mukesh Ambani Deleted". 
+Fourth Case : Here, we have deleted "Mukesh Ambani" with the help of delete button, which is in the corner of the each notes. And a POP-UP notification is shown with "Mukesh Ambani Deleted". 
 
 ![Screenshot (457)](https://user-images.githubusercontent.com/79192605/119723235-dbf59080-be8a-11eb-9a1a-88ae857ef184.png)
 
