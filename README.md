@@ -1,5 +1,16 @@
 # Note-Taking-App
-This is a simple no-frills note taking app with material design, meant for taking down a quick note or list. Notes are saved automatically so you never have to worry about losing anything.
+• This is a simple no-frills note taking app with material design, meant for taking down a quick note or list.
+
+• Notes are saved automatically so you never have to worry about losing anything.
+
+• 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐔𝐬𝐞𝐝 :
+1. 𝐃𝐀𝐎'𝐬 : Accessing data using Room DAOs which manages local data SQLite data source using objects.
+
+2. 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 : clean API for UI to communicate with.
+
+3. 𝐕𝐢𝐞𝐰𝐌𝐨𝐝𝐞𝐥 : Holds all the data needed for the UI.
+
+• Load LiveData from ViewModel into RecyclerView.
 
 First Case : Here, User allowed to enter the quick note. 
 
